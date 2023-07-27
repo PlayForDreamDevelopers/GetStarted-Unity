@@ -10,4 +10,4 @@ The **Get Started** sample sets you up to create a basic scene using the YVR Uni
 | XR Interaction Toolkit | 2.4.3 |
 
 ## Licenses
-This project is released under the [MIT License](https://github.com/YVRDeveloper/GetStarted-Unity/blob/main/License).
+This project is released under the [MIT License](https://github.com/YVRDeveloper/GetStarted-Unity/blob/main/LICENSE).
