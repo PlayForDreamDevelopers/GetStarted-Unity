@@ -1,0 +1,7 @@
+{
+  "name": "com.yvr.android-device.business",
+  "version": "0.0.1",
+  "displayName": "YVR Android Device Business",
+  "description": "This is the package of android devices business",
+  "unity": "2020.3"
+}
