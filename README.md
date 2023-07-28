@@ -1,9 +1,11 @@
 # Get Started - Unity
-The **Get Started** sample sets you up to create a basic scene using the YVR Unity SDK and the Unity XR Interaction Toolkit. The sample includes the use of SDK features, the basic configurations, and a scene containing the HMD and controller settings. For instructions on how to build the scene, refer to the [Quickstart Guide](https://developer.yvrdream.com/yvrdoc/unity_CN/UserManual_CN/GetStarted.html).
+The **Get Started** sample is a simple Unity project that demonstrates how to use the YVR Unity SDK and the Unity XR Interaction Toolkit to create a simple VR application. You can use this project as a starting point for your own VR applications.
 
-**Development Environment**
+## Getting Started
+Open the project in Unity and open the `Assets/Scenes/GetStarted` scene. You can run the scene in the Unity Editor or build it to a device.
 
-| Name  | Version    |
+## Development Environment
+| **Name** | **Version** |
 | ----  |  ----      |
 | Unity Editor | 2022.3.5f1 |
 | YVR Unity SDK | 2.3.1 |
