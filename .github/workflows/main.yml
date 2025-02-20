@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    tags:
+      - "v*"
   pull_request:
     branches:
       - main
@@ -38,8 +40,24 @@ jobs:
         with:
           targetPlatform: Android
 
+      # Rename
+      - name: Rename FIle
+        run: |
+          COMMIT_ID=$(git rev-parse --short HEAD)
+          echo "COMMIT_ID=${COMMIT_ID}" >> $GITHUB_ENV
+          mkdir output
+          cp build/Android/Android.apk output/output_${COMMIT_ID}.apk
+
       # Output
       - uses: actions/upload-artifact@v4
         with:
           name: Build
-          path: build
+          path: output
+
+      # Release
+      - uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        env:
+          GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+        with:
+          files: output/output_${{env.COMMIT_ID}}.apk
