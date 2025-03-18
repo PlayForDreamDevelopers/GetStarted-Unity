@@ -7,7 +7,7 @@ Open the project in Unity and open the `Assets/Scenes/GetStarted` scene. You can
 ## Development Environment
 | **Name** | **Version** |
 | ----  |  ----      |
-| Unity Editor | 2022.3.5f1 |
+| Unity Editor | 2022.3.52f1 |
 | YVR Unity SDK | 2.3.1 |
 | XR Interaction Toolkit | 2.4.3 |
 
