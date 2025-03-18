@@ -15,9 +15,9 @@
         <br />
         <a href="https://github.com/PlayForDreamDevelopers/GetStarted-Unity#项目示例">查看示例</a>
         &middot;
-        <a href="https://github.com/PlayForDreamDevelopers/GetStarted-Unity/issues/new?labels=bug">Bug报告</a>
+        <a href="https://github.com/PlayForDreamDevelopers/GetStarted-Unity/issues/new?template=bug_report.yml">Bug报告</a>
         &middot;
-        <a href="https://github.com/PlayForDreamDevelopers/GetStarted-Unity/issues/new?labels=enhancement">需求要求</a>
+        <a href="https://github.com/PlayForDreamDevelopers/GetStarted-Unity/issues/new?template=feature_request.yml">需求要求</a>
         &middot;
         <a href="https://github.com/PlayForDreamDevelopers/GetStarted-Unity/issues/new?template=documentation_update.yml">改进文档建议</a>
     </p>
