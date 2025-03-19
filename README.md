@@ -24,10 +24,6 @@
 
 </div>
 
-> [!tip]
-> 
-> This project is released under the [MIT License](https://github.com/PlayForDreamDevelopers/GetStarted-Unity/blob/main/LICENSE)
-
 ## About The Project
 
 The **Get Started** sample is a simple Unity project that demonstrates how to use the YVR Unity SDK and the Unity XR Interaction Toolkit to create a simple VR application. You can use this project as a starting point for your own VR applications.

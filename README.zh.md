@@ -24,12 +24,6 @@
 
 </div>
 
-> [!tip]
-> 
-> 本项目根据[MIT许可证](https://github.com/PlayForDreamDevelopers/GetStarted-Unity/blob/main/LICENSE)发布
-
-
-
 ## 关于项目
 
 “入门”示例是一个简单的Unity项目，演示如何使用 YVR Unity SDK和 Unity XR 交互工具包创建一个简单的VR应用程序。您可以将此项目作为您自己的VR应用程序的起点。
