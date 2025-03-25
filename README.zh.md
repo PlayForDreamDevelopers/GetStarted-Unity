@@ -30,13 +30,20 @@
 
 ### 项目示例
 
-创建完成后简单的VR应用程序
 
-![2025 03 18_113417227](https://github.com/user-attachments/assets/5da5ad1c-f4d0-4f28-90b5-58ebeac71a00)
+#### UI-Started
+
+一个最简的操作 VR 应用程序，带有简单的 UI。
+
+![2025 03 25_090928939](https://github.com/user-attachments/assets/24103e32-89c3-4342-955d-1e0205dae660)
+
+> [!tip]
+>
+> 本项目有 [Unity-2022](https://github.com/PlayForDreamDevelopers/GetStarted-Unity/tree/main) 分支，适用于 Unity 2022 版本
 
 ## 要求
 
-- Unity 2022.3.52f1 或者更新的版本
+- Unity 6000.0.43f1 或者更新的版本
 - Unity 包：
   - YVR Unity SDK 2.3.1 或者更新的版本
   - XR Interaction Toolkit 2.4.3 或者更新的版本
