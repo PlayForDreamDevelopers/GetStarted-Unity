@@ -34,7 +34,7 @@ The **Get Started** sample is a simple Unity project that demonstrates how to us
 
 Create a minimal VR application with a simple UI.
 
-![image](https://github.com/user-attachments/assets/ecb24342-425f-462e-98ac-00bd4d1f61ad)
+![2025 03 25_090928939](https://github.com/user-attachments/assets/24103e32-89c3-4342-955d-1e0205dae660)
 
 ## Requirements
 
