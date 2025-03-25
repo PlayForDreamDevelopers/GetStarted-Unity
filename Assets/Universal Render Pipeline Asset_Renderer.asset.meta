@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 08308742a5029a04a940076dd6c6deb3
-=======
-guid: 4f59a7c05543e4b4680257a1440d5292
->>>>>>> 7220993 (feat: add UI Started sample)
+guid: 085ed76b84d3ee649a7858640f99c8c0
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000

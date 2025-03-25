@@ -92,7 +92,7 @@ MonoBehaviour:
     attrValue: yvr.sdk.version
     attrs:
     - value
-    - Unity_core_1.23.10|Unity_utilities_0.15.11
+    - Unity_core_1.23.10|Unity_interaction_0.6.28|Unity_utilities_0.15.11
     required: 1
     modifyIfFound: 1
   assetInfoList: []
