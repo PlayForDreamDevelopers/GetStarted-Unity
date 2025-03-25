@@ -26,17 +26,24 @@
 
 ## 关于项目
 
-“入门”示例是一个简单的Unity项目，演示如何使用 YVR Unity SDK和 Unity XR 交互工具包创建一个简单的VR应用程序。您可以将此项目作为您自己的VR应用程序的起点。
+“入门”示例是一个简单的 Unity 项目，演示如何使用 YVR Unity SDK 和 Unity XR 交互工具包创建一个简单的 VR 应用程序。您可以将此项目作为您自己的 VR 应用程序的起点。
 
 ### 项目示例
 
-创建完成后简单的VR应用程序
+#### UI-Started
 
-![2025 03 18_113417227](https://github.com/user-attachments/assets/5da5ad1c-f4d0-4f28-90b5-58ebeac71a00)
+一个最简的操作 VR 应用程序，带有简单的 UI。
+
+![image](https://github.com/user-attachments/assets/ecb24342-425f-462e-98ac-00bd4d1f61ad)
 
 ## 要求
 
-- Unity 2022.3.52f1 或者更新的版本
-- Unity 包：
-  - YVR Unity SDK 2.3.1 或者更新的版本
-  - XR Interaction Toolkit 2.4.3 或者更新的版本
+> [!tip]
+>
+> 本项目有 [Unity-6.0](https://github.com/PlayForDreamDevelopers/GetStarted-Unity/tree/Unity-6.0) 分支，适用于 Unity 6.0 版本
+
+-   Unity 2022 3.52f1 或更新版本
+-   Unity Packages:
+    -   [YVR Core](https://github.com/PlayForDreamDevelopers/com.yvr.core-mirror)
+    -   [YVR Utilities](https://github.com/PlayForDreamDevelopers/com.yvr.Utilities-mirror)
+    -   [YVR Interaction](https://github.com/PlayForDreamDevelopers/com.yvr.interaction-mirror)

@@ -30,13 +30,20 @@ The **Get Started** sample is a simple Unity project that demonstrates how to us
 
 ### Samples
 
-Create a simple VR application after completion
+#### UI-Started
 
-![2025 03 18_113417227](https://github.com/user-attachments/assets/5da5ad1c-f4d0-4f28-90b5-58ebeac71a00)
+Create a minimal VR application with a simple UI.
+
+![image](https://github.com/user-attachments/assets/ecb24342-425f-462e-98ac-00bd4d1f61ad)
 
 ## Requirements
 
-- Unity 2022.3.5f1 or later
-- Unity package：
-  - YVR Unity SDK 2.3.1 or later
-  - XR Interaction Toolkit 2.4.3 or later
+> [!tip]
+>
+> This project has a [Unity-6.0](https://github.com/PlayForDreamDevelopers/GetStarted-Unity/tree/Unity-6.0) branch for Unity 6.0.
+
+-   Unity 2022 3.52f1 or later
+-   Unity Packages:
+    -   [YVR Core](https://github.com/PlayForDreamDevelopers/com.yvr.core-mirror)
+    -   [YVR Utilities](https://github.com/PlayForDreamDevelopers/com.yvr.Utilities-mirror)
+    -   [YVR Interaction](https://github.com/PlayForDreamDevelopers/com.yvr.interaction-mirror)
