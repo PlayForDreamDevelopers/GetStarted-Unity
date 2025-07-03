@@ -1,14 +1,10 @@
 name: Unity Build APK
 
 on:
+  workflow_dispatch:
   push:
-    branches:
-      - main
     tags:
       - "v*"
-  pull_request:
-    branches:
-      - main
 
 jobs:
   build:
@@ -16,10 +12,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Clean disk space
+      - name: Free Disk Space (Ubuntu)
+        uses: jlumbroso/free-disk-space@v1.3.1
+
       # Checkout
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           lfs: true
 
       # Cache
