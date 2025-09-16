@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   use16BitDepthBuffer: 0
   useMonoscopic: 0
-  useAndroidSession: 1
   useVRWidget: 0
+  optimizeBufferDiscards: 0
+  useAppSW: 0
   stereoRenderingMode: 2
-  eyeResolutionScale: 1
+  OSSplashScreen: {fileID: 0}
